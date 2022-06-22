@@ -1,10 +1,10 @@
 {
   "name": "Copy SVG Base64",
   "id": "fc1f2874",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "author": "Thimo Pedersen",
-  "description": "Plugin to generate SVG code from selection.",
-  "summary": "Generate Base64 data-uri and CSS backgrounds to use.",
+  "description": "Generate Base64 data-uri and CSS backgrounds to use.",
+  "summary": "Generate Base64",
   "helpUrl": "https://github.com/ithimo/xd-copy-svg-base64-plugin/issues",
   "keywords": ["svg", "base64", "code", "development tools"],
   "releaseNotes": "Initial release.",
