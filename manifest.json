@@ -1,13 +1,13 @@
 {
-  "name": "Copy SVG Code",
+  "name": "Copy SVG Base64",
   "id": "fc1f2874",
   "version": "1.0.3",
-  "author": "Charlie Hield",
+  "author": "Thimo Pedersen",
   "description": "Plugin to generate SVG code from selection.",
-  "summary": "Generate SVG code.",
-  "helpUrl": "https://github.com/stursby/xd-copy-svg-code-plugin/issues",
-  "keywords": ["svg", "copy", "code"],
-  "releaseNotes": "Fix copy to clipboard issue for Windows",
+  "summary": "Generate Base64 data-uri and CSS backgrounds to use.",
+  "helpUrl": "https://github.com/ithimo/xd-copy-svg-base64-plugin/issues",
+  "keywords": ["svg", "base64", "code", "development tools"],
+  "releaseNotes": "Initial release.",
   "icons": [
     {
       "width": 24,
@@ -43,7 +43,7 @@
   "uiEntryPoints": [
     {
       "type": "menu",
-      "label": "Copy SVG Code",
+      "label": "Copy SVG Base64",
       "menuItems": [
           {
               "type": "menu",
